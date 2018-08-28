@@ -1,1 +1,1058 @@
-{"theses":{"0":{"l":"These 1 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam","s":"These 1","x":"Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam er"},"1":{"l":"These 2 m dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ","s":"These 2","x":""},"2":{"l":"These 3 ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lore","s":"These 3","x":"takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."},"3":{"l":"These 4 sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et ","s":"These 4","x":"tetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eo"},"4":{"l":"These 5 elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et just","s":"These 5","x":""},"5":{"l":"These 6 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel i","s":"These 6","x":""},"6":{"l":"These 7 tatum zzril delenit augue duis dolore te feugait nulla facilisi","s":"These 7","x":""},"7":{"l":"These 8 invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eo","s":"These 8","x":"ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit a"},"8":{"l":"These 9 imata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos","s":"These 9","x":""},"9":{"l":"These 10 ergren, no sea takimata sanctus est Lorem ipsum dolor","s":"These 10","x":""}},"lists":{"0":{"name":"Liste X","name_x":"Liste X"},"1":{"name":"Kugelschreibär","name_x":"STIFT"},"2":{"name":"Liste Oben","name_x":"Liste Oben"},"3":{"name":"The ACKERdemikerliste","name_x":"TACKER"},"4":{"name":"Vitamin B","name_x":"Vitamin B"},"5":{"name":"Niemals nicht","name_x":"NEIN"}},"answers":{"0":{"0":{"selection":"a","statement":"Juche!"},"1":{"selection":"a","statement":"Noe."},"2":{"selection":"c","statement":""},"3":{"selection":"b","statement":""},"4":{"selection":"a","statement":""},"5":{"selection":"c","statement":""},"6":{"selection":"b","statement":""},"7":{"selection":"b","statement":""},"8":{"selection":"a","statement":""},"9":{"selection":"a","statement":""}},"1":{"0":{"selection":"c","statement":"Moep"},"1":{"selection":"b","statement":"Yay"},"2":{"selection":"a","statement":""},"3":{"selection":"a","statement":""},"4":{"selection":"a","statement":""},"5":{"selection":"b","statement":""},"6":{"selection":"a","statement":""},"7":{"selection":"c","statement":""},"8":{"selection":"c","statement":""},"9":{"selection":"a","statement":""}},"2":{"0":{"selection":"a","statement":""},"1":{"selection":"c","statement":""},"2":{"selection":"c","statement":""},"3":{"selection":"a","statement":""},"4":{"selection":"d","statement":""},"5":{"selection":"c","statement":""},"6":{"selection":"c","statement":""},"7":{"selection":"a","statement":""},"8":{"selection":"a","statement":""},"9":{"selection":"a","statement":""}},"3":{"0":{"selection":"c","statement":""},"1":{"selection":"a","statement":""},"2":{"selection":"a","statement":""},"3":{"selection":"a","statement":""},"4":{"selection":"a","statement":""},"5":{"selection":"c","statement":""},"6":{"selection":"a","statement":""},"7":{"selection":"c","statement":""},"8":{"selection":"b","statement":""},"9":{"selection":"c","statement":""}},"4":{"0":{"selection":"a","statement":""},"1":{"selection":"c","statement":""},"2":{"selection":"c","statement":""},"3":{"selection":"c","statement":""},"4":{"selection":"c","statement":""},"5":{"selection":"c","statement":""},"6":{"selection":"c","statement":""},"7":{"selection":"a","statement":""},"8":{"selection":"a","statement":""},"9":{"selection":"a","statement":""}},"5":{"0":{"selection":"a","statement":""},"1":{"selection":"a","statement":""},"2":{"selection":"c","statement":""},"3":{"selection":"b","statement":""},"4":{"selection":"c","statement":""},"5":{"selection":"c","statement":""},"6":{"selection":"c","statement":""},"7":{"selection":"c","statement":""},"8":{"selection":"a","statement":""},"9":{"selection":"a","statement":""}}}}
+{
+	"theses": {
+		"0": {
+			"l": "A maioridade penal deve ser reduzida para 16 anos.",
+			"s": "Tese 1",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro."
+		},
+		"1": {
+			"l": "Deve haver a privatização de grande parte das empresas públicas.",
+			"s": "Tese 2",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"2": {
+			"l": "O cidadão comum deve ter o direito de ter armas de fogo.",
+			"s": "Tese 3",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"3": {
+			"l": "Os professores devem ser proibidos de emitir suas opiniões e valores em sala de aula (Escola sem Partido).",
+			"s": "Tese 4",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"4": {
+			"l": "Deve haver cotas nas universidades públicas.",
+			"s": "Tese 5",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"5": {
+			"l": "Deve haver maior investimento na educação pública (escolas e universidades).",
+			"s": "Tese 6",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"6": {
+			"l": "O currículo obrigatório do ensino médio deve ser reduzido.",
+			"s": "Tese 7",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"7": {
+			"l": "Deve haver o reconhecimento da união civil entre pessoas do mesmo sexo.",
+			"s": "Tese 8",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"8": {
+			"l": "O aborto deve ser considerado crime em todos os casos.",
+			"s": "Tese 9",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"9": {
+			"l": "O consumo de maconha deve ser considerado um crime.",
+			"s": "Tese 10",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"10": {
+			"l": "O Estado deve participar diretamente na economia.",
+			"s": "Tese 11",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"11": {
+			"l": "Deve haver taxação de grandes heranças.",
+			"s": "Tese 12",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"12": {
+			"l": "A demarcação de terras indígenas deve continuar.",
+			"s": "Tese 13",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"13": {
+			"l": "Deve haver o fim do foro privilegiado.",
+			"s": "Tese 14",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"14": {
+			"l": "Deve haver uma lei mais branda para a entrada de imigrantes.",
+			"s": "Tese 15",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"15": {
+			"l": "Deve-se revogar a CLT em favor da terceirização (Reforma Trabalhista).",
+			"s": "Tese 16",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"16": {
+			"l": "Os trabalhadores devem contribuir mais tempo para se aposentar (Reforma Previdenciaria).",
+			"s": "Tese 17",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"17": {
+			"l": "Deve haver congelamento dos gastos com serviços públicos por 20 anos (PEC do Teto de Gastos).",
+			"s": "Tese 18",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"18": {
+			"l": "O controle dos gastos público deve ser a prioridade do governo.",
+			"s": "Tese 19",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"19": {
+			"l": "O SUS deve permanecer público e gratuito.",
+			"s": "Tese 20",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"20": {
+			"l": "Deve haver Reforma Agrária e priorização da agricultura familiar.",
+			"s": "Tese 21",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		},
+		"21": {
+			"l": "A intervenção militar no Rio de Janeiro é necessária, com o exército chefiando a segurança pública.",
+			"s": "Tese 22",
+			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
+		}
+	},
+	"lists": {
+		"0": {
+			"name": "Guilherme Boulos",
+			"name_x": "Guilherme Boulos"
+		},
+		"1": {
+			"name": "Lula",
+			"name_x": "Lula"
+		},
+		"2": {
+			"name": "Ciro Gomes",
+			"name_x": "Ciro Gomes"
+		},
+		"3": {
+			"name": "Marina Silva",
+			"name_x": "Marina Silva"
+		},
+		"4": {
+			"name": "Álvaro Dias",
+			"name_x": "Álvaro Dias"
+		},
+		"5": {
+			"name": "Henrique Meirelles",
+			"name_x": "Henrique Meirelles"
+		},
+		"6": {
+			"name": "Geraldo Alckmin",
+			"name_x": "Geraldo Alckmin"
+		},
+		"7": {
+			"name": "João Amoedo",
+			"name_x": "João Amoedo"
+		},
+		"8": {
+			"name": "Jair Bolsonaro",
+			"name_x": "Jair Bolsonaro"
+		},
+		"9": {
+			"name": "Cabo Daciolo",
+			"name_x": "Cabo Daciolo"
+		}
+	},
+	"answers": {
+		"0": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"1": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"3": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"4": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "d",
+				"statement": ""
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"5": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "b",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"6": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "b",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"7": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"8": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"9": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "d",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			}
+		}
+	}
+}
