@@ -1,6 +1,6 @@
 class T {
 	constructor() {
-		this.page_title = "O Votômetro";
+		this.page_title = "Votômetro";
 		this.qa_modal_title = "FAQ";
 		this.qa_modal_body = '<h4></h4>\
 					<p></p>\
@@ -35,11 +35,11 @@ class T {
 \
 					<h4>Quem programou o Votômetro?</h4>\
 					<p>Está \
-						<a href="https://github.com/hszemi/mahlowat">aqui</a>.</p>\
+						<a href="https://github.com/rmatschke/-Vot-metro">aqui</a>.</p>\
 \
 					<h4>Eu encontrei um erro de programação!</h4>\
 					<p>Oh não! Se você reportar o erro, ele pode ser corrigido.\
-						<a href="https://github.com/hszemi/mahlowat"></a></p>';
+						<a href="https://github.com/rmatschke/-Vot-metro"></a></p>';
 		this.btn_qa_modal_close = "Fechar";
 		this.swype_info_message_text = "Deslize para alternar manualmente entre as teses";
 		this.btn_swype_info_ok = "Ta Bom";
@@ -61,7 +61,7 @@ class T {
 		this.btn_mahlowat_skip_remaining_theses = "Ignore todas as teses restantes e avalie o status atual";
 		this.title_results = "";
 		this.title_results_summary = "Resultados";
-		this.text_result_below_summary = '<small>Não satisfeito com o resultado?\
+		this.text_result_below_summary = '<small>Não ficou satisfeito com o resultado?\
 				<button class="btn btn-sm btn-light" onclick="showMahlowatFirstThesis()">Altere as respostas ou a ponderação!</button>\
 			</small>';
 		this.title_results_details = "";

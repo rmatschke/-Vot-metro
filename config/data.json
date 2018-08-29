@@ -71,12 +71,12 @@
 			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
 		},
 		"14": {
-			"l": "Deve haver uma lei mais branda para a entrada de imigrantes.",
+			"l": "Deve haver uma lei mais flexível para a entrada de imigrantes.",
 			"s": "Tese 15",
 			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
 		},
 		"15": {
-			"l": "Deve-se revogar a CLT em favor da terceirização (Reforma Trabalhista).",
+			"l": "Deve-se limitar a CLT, aumentando o trabalho terceirizado (Reforma Trabalhista).",
 			"s": "Tese 16",
 			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
 		},
@@ -91,7 +91,7 @@
 			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
 		},
 		"18": {
-			"l": "O controle dos gastos público deve ser a prioridade do governo.",
+			"l": "O controle dos gastos públicos deve ser a prioridade do governo.",
 			"s": "Tese 19",
 			"x": "Clique em Dobrar Importância para que essa questão seja contada em dobro"
 		},
@@ -192,7 +192,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -216,7 +216,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"16": {
@@ -282,7 +282,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -306,7 +306,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"16": {
@@ -372,7 +372,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -396,7 +396,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"16": {
@@ -486,7 +486,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"16": {
@@ -552,7 +552,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
@@ -642,7 +642,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -666,7 +666,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
@@ -732,7 +732,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
@@ -756,7 +756,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
@@ -846,7 +846,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
@@ -912,7 +912,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
@@ -936,7 +936,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
@@ -1002,7 +1002,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
@@ -1026,7 +1026,7 @@
 				"statement": ""
 			},
 			"15": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
