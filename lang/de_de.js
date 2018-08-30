@@ -45,7 +45,7 @@ class T {
 		this.btn_swype_info_ok = "Ta Bom";
 
 		this.start_subtitle = "O Votômetro é uma ferramenta para identificar a correspondência entre suas ideias e as dos candidatos.";
-		this.start_explanatory_text = "<p> O Votômetro compara suas posições quanto a assuntos importantes da agenda política com as opiniões dos presidenciáveis de 2018.\
+		this.start_explanatory_text = "<p> Ele compara suas posições quanto a assuntos importantes da agenda política com as opiniões dos principais candidatos à presidente de 2018.\
 					</p>\
 					<p></p>";
 		this.btn_start = "começar";
